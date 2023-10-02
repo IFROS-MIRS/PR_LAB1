@@ -1,6 +1,0 @@
-Filters
-=======
-
-.. autoclass:: prpy.GaussianFilter
-.. autoclass:: prpy.KF
-.. autoclass:: prpy.EKF

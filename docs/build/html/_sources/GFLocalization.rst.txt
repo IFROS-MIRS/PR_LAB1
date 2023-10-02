@@ -1,4 +1,0 @@
-Gaussian Filter Localization
-============================
-
-.. autoclass:: GFLocalization.GFLocalization
