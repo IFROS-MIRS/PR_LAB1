@@ -87,10 +87,10 @@ class SimulatedRobot:
         """ Motion model used to simulate the robot motion. Computes the current robot state :math:`x_k` given the previous robot state :math:`x_{k-1}` and the input :math:`u_k`.
         It also updates the object attributes :math:`xsk`, :math:`xsk_1` and  :math:`usk` to be made them available for plotting purposes.
         *To be overriden in child class*.
-        
+
 
         :parameter xsk_1: previous robot state :math:`x_{k-1}`
-        :parameter uk: model input :math:`u_k`
+        :parameter usk: model input :math:`u_{s_k}`
         :return: current robot state :math:`x_k`
         """
         pass
