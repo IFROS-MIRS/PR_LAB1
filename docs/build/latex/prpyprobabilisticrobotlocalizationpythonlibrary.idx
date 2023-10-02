@@ -1,0 +1,32 @@
+\indexentry{Pose3D (class in Pose3D)@\spxentry{Pose3D}\spxextra{class in Pose3D}|hyperpage}{3}
+\indexentry{oplus() (Pose3D.Pose3D method)@\spxentry{oplus()}\spxextra{Pose3D.Pose3D method}|hyperpage}{3}
+\indexentry{J\_1oplus() (Pose3D.Pose3D method)@\spxentry{J\_1oplus()}\spxextra{Pose3D.Pose3D method}|hyperpage}{3}
+\indexentry{J\_2oplus() (Pose3D.Pose3D method)@\spxentry{J\_2oplus()}\spxextra{Pose3D.Pose3D method}|hyperpage}{3}
+\indexentry{ominus() (Pose3D.Pose3D method)@\spxentry{ominus()}\spxextra{Pose3D.Pose3D method}|hyperpage}{5}
+\indexentry{J\_ominus() (Pose3D.Pose3D method)@\spxentry{J\_ominus()}\spxextra{Pose3D.Pose3D method}|hyperpage}{5}
+\indexentry{SimulatedRobot (class in SimulatedRobot)@\spxentry{SimulatedRobot}\spxextra{class in SimulatedRobot}|hyperpage}{5}
+\indexentry{dt (SimulatedRobot.SimulatedRobot attribute)@\spxentry{dt}\spxextra{SimulatedRobot.SimulatedRobot attribute}|hyperpage}{5}
+\indexentry{\_\_init\_\_() (SimulatedRobot.SimulatedRobot method)@\spxentry{\_\_init\_\_()}\spxextra{SimulatedRobot.SimulatedRobot method}|hyperpage}{5}
+\indexentry{PlotRobot() (SimulatedRobot.SimulatedRobot method)@\spxentry{PlotRobot()}\spxextra{SimulatedRobot.SimulatedRobot method}|hyperpage}{7}
+\indexentry{fs() (SimulatedRobot.SimulatedRobot method)@\spxentry{fs()}\spxextra{SimulatedRobot.SimulatedRobot method}|hyperpage}{7}
+\indexentry{SetMap() (SimulatedRobot.SimulatedRobot method)@\spxentry{SetMap()}\spxextra{SimulatedRobot.SimulatedRobot method}|hyperpage}{7}
+\indexentry{\_PlotSample() (SimulatedRobot.SimulatedRobot method)@\spxentry{\_PlotSample()}\spxextra{SimulatedRobot.SimulatedRobot method}|hyperpage}{7}
+\indexentry{DifferentialDriveSimulatedRobot (class in DifferentialDriveSimulatedRobot)@\spxentry{DifferentialDriveSimulatedRobot}\spxextra{class in DifferentialDriveSimulatedRobot}|hyperpage}{7}
+\indexentry{\_\_init\_\_() (DifferentialDriveSimulatedRobot.DifferentialDriveSimulatedRobot method)@\spxentry{\_\_init\_\_()}\spxextra{DifferentialDriveSimulatedRobot.DifferentialDriveSimulatedRobot method}|hyperpage}{7}
+\indexentry{fs() (DifferentialDriveSimulatedRobot.DifferentialDriveSimulatedRobot method)@\spxentry{fs()}\spxextra{DifferentialDriveSimulatedRobot.DifferentialDriveSimulatedRobot method}|hyperpage}{9}
+\indexentry{ReadEncoders() (DifferentialDriveSimulatedRobot.DifferentialDriveSimulatedRobot method)@\spxentry{ReadEncoders()}\spxextra{DifferentialDriveSimulatedRobot.DifferentialDriveSimulatedRobot method}|hyperpage}{10}
+\indexentry{ReadCompass() (DifferentialDriveSimulatedRobot.DifferentialDriveSimulatedRobot method)@\spxentry{ReadCompass()}\spxextra{DifferentialDriveSimulatedRobot.DifferentialDriveSimulatedRobot method}|hyperpage}{10}
+\indexentry{ReadCartesian2DFeature() (DifferentialDriveSimulatedRobot.DifferentialDriveSimulatedRobot method)@\spxentry{ReadCartesian2DFeature()}\spxextra{DifferentialDriveSimulatedRobot.DifferentialDriveSimulatedRobot method}|hyperpage}{10}
+\indexentry{PlotRobot() (DifferentialDriveSimulatedRobot.DifferentialDriveSimulatedRobot method)@\spxentry{PlotRobot()}\spxextra{DifferentialDriveSimulatedRobot.DifferentialDriveSimulatedRobot method}|hyperpage}{10}
+\indexentry{Localization (class in Localization)@\spxentry{Localization}\spxextra{class in Localization}|hyperpage}{10}
+\indexentry{\_\_init\_\_() (Localization.Localization method)@\spxentry{\_\_init\_\_()}\spxextra{Localization.Localization method}|hyperpage}{10}
+\indexentry{GetInput() (Localization.Localization method)@\spxentry{GetInput()}\spxextra{Localization.Localization method}|hyperpage}{11}
+\indexentry{Localize() (Localization.Localization method)@\spxentry{Localize()}\spxextra{Localization.Localization method}|hyperpage}{11}
+\indexentry{LocalizationLoop() (Localization.Localization method)@\spxentry{LocalizationLoop()}\spxextra{Localization.Localization method}|hyperpage}{11}
+\indexentry{Log() (Localization.Localization method)@\spxentry{Log()}\spxextra{Localization.Localization method}|hyperpage}{11}
+\indexentry{PlotXY() (Localization.Localization method)@\spxentry{PlotXY()}\spxextra{Localization.Localization method}|hyperpage}{11}
+\indexentry{PlotTrajectory() (Localization.Localization method)@\spxentry{PlotTrajectory()}\spxextra{Localization.Localization method}|hyperpage}{12}
+\indexentry{DR\_3DOFDifferentialDrive (class in DR\_3DOFDifferentialDrive)@\spxentry{DR\_3DOFDifferentialDrive}\spxextra{class in DR\_3DOFDifferentialDrive}|hyperpage}{12}
+\indexentry{\_\_init\_\_() (DR\_3DOFDifferentialDrive.DR\_3DOFDifferentialDrive method)@\spxentry{\_\_init\_\_()}\spxextra{DR\_3DOFDifferentialDrive.DR\_3DOFDifferentialDrive method}|hyperpage}{12}
+\indexentry{Localize() (DR\_3DOFDifferentialDrive.DR\_3DOFDifferentialDrive method)@\spxentry{Localize()}\spxextra{DR\_3DOFDifferentialDrive.DR\_3DOFDifferentialDrive method}|hyperpage}{12}
+\indexentry{GetInput() (DR\_3DOFDifferentialDrive.DR\_3DOFDifferentialDrive method)@\spxentry{GetInput()}\spxextra{DR\_3DOFDifferentialDrive.DR\_3DOFDifferentialDrive method}|hyperpage}{13}
