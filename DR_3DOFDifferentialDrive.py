@@ -29,6 +29,10 @@ class DR_3DOFDifferentialDrive(Localization):
         :return xk: current robot pose estimate (:math:`x_k=[x_{k}~y_{k}~\psi_{k}]^T`)
         """
 
+        # Store previous state and input for Logging purposes
+        self.etak_1 = xk_1  # store previous state
+        self.uk = uk  # store input
+
         # TODO: to be completed by the student
 
         pass
